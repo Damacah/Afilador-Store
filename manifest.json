@@ -1,7 +1,7 @@
 {
     "name": "Afilador_Store",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/thunderstore-io",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Damacah/Afilador-Store",
     "description": "A mod for all the Spaniards who woke up to this iconic sharpening sound in the streets.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",

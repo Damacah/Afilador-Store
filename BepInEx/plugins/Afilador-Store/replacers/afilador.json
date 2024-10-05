@@ -1,0 +1,26 @@
+{
+    "replacements": [
+        {
+            "matches": "Music:IcecreamTruckV2",
+            "sounds": [
+                {
+                    "sound": "afilador.ogg"
+                },
+                {
+                    "sound": "afilador.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "Music:IcecreamTruckFar",
+            "sounds": [
+                {
+                    "sound": "afilador_far.ogg"
+                },
+                {
+                    "sound": "afilador_far.ogg"
+                }
+            ]
+        }
+    ]
+}
